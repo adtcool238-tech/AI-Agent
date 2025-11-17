@@ -38,3 +38,8 @@ def lambda_handler(event, context):
     except Exception as e:
         print(":x: Error:", str(e))
         return {"statusCode": 500, "body": f"Error: {str(e)}"}
+
+
+def add:
+   int x+int y
+ return x+y
