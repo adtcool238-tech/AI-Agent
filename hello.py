@@ -42,4 +42,6 @@ def lambda_handler(event, context):
 
 def add:
     return x+y
+def subtract:
+    return x-y
 
